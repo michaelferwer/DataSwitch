@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/pre-dexed/debug/classes-df69ab80d394d0ed587ecf1ff128ddf6d36596eb.jar" />
+    </item>
+    <item
+        jar="/Volumes/MacDD/Logiciel/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-c11edf3bf4efc2a768609d562a9c37b5427bd1df.jar" />
+    </item>
+    <item
+        jar="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/pre-dexed/debug/classes-da9643630629eab3867f1aa100c37b86259fe0ae.jar" />
+    </item>
+    <item
+        jar="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/michael/git/DataSwitch/DataSwitch/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-88d9a4f4c93b962f30c89586dc864e11a3be44b6.jar" />
+    </item>
+
+</items>
